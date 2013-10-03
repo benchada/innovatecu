@@ -4,3 +4,5 @@
 Say something
 
 This is gonna be an awesome class!
+
+Yes it is indeed.
